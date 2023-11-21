@@ -1,2 +1,2 @@
 # TicTacToe
-My implementation of TicTacToe game using C# in console aplication mode.
+My implementation of tic tac toe game using C# in console aplication mode.
