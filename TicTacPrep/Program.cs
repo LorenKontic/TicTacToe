@@ -5,7 +5,7 @@ using System.Reflection.Metadata;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Channels;
 
-namespace TicTacPrep
+namespace TicTacToe
 {
     internal class Program
     {
